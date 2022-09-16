@@ -4,6 +4,6 @@ examples for components dev web, react, vite, tailwindcss, bootstrap, reactboots
 
 
 
-# propósito educacional para auxiliar no desenvolvimento de páginas
+propósito educacional para auxiliar no desenvolvimento de páginas
 
 
