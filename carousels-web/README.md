@@ -1,9 +1,5 @@
 # Carousel utilizando React Bootstrap
 
-1. para ver o comportamento deste projeto instale as dependencias com: npm install ou yarn add
-
-2. posteriormente start o projeto com: npm run dev ou yarn run dev
-
 - Carousel como component e importando dentro de App.jsx,
 você poderá estar alterando o tamanho do carousel assim como
 suas dimensões para suprir suas necessidades.
@@ -12,10 +8,16 @@ e mostrar conteúdos, informações, você pode estar alterando a
 forma de transição dos carousels. Fique a vontade e utilize 
 a documentação para mais orientações.
 
+# como abrir este projeto
 
-# instalação
+1. para ver o comportamento deste projeto instale as dependencias com: npm install ou yarn add
+2. posteriormente start o projeto com: npm run dev ou yarn run dev
+
+
+
+# instalação do react bootstrap em seu projeto
+
 npm install react-bootstrap bootstrap
-
 
 acrescente os scripts que no body do index.html 
 
